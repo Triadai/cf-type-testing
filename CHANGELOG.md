@@ -2,6 +2,13 @@ All notable changes to this project will be documented in this file.
 We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 
 
+## 0.1.1 - 2015-11-04
+
+### Removed
+- `dist` (needed to view on gh-pages) and `src/vendor/` (redundant) from
+  `.gitignore`
+
+
 ## 0.1.0 - 2015-11-04
 
 ### Added
