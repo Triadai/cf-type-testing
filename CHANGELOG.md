@@ -2,6 +2,12 @@ All notable changes to this project will be documented in this file.
 We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 
 
+## 0.3.0 - 2015-11-04
+
+### Added
+- Example from Natalia's Illustrator file
+
+
 ## 0.2.0 - 2015-11-04
 
 ### Added
