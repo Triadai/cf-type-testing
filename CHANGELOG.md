@@ -2,6 +2,14 @@ All notable changes to this project will be documented in this file.
 We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 
 
+## 0.2.0 - 2015-11-04
+
+### Added
+- Link
+- Expandable
+- Duplicate stuff with Avenir Next body copy
+
+
 ## 0.1.1 - 2015-11-04
 
 ### Removed
