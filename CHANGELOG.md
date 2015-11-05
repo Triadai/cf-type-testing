@@ -2,6 +2,16 @@ All notable changes to this project will be documented in this file.
 We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 
 
+## 0.3.1 - 2015-11-05
+
+### Added
+- [List styling proposed by AJ](https://github.com/cfpb/design-manual/issues/357#issuecomment-144088271)
+  (15px between items, 30px above/below list)
+
+### Fixed
+- Expandables now behave correctly
+
+
 ## 0.3.0 - 2015-11-04
 
 ### Added

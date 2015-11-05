@@ -9,6 +9,20 @@
 }
 
 
+// Testing AJ's bulleted list specs
+
+ul {
+    margin-top: unit(@grid_gutter-width / @base-font-size-px, em);
+    margin-bottom: unit(@grid_gutter-width / @base-font-size-px, em);
+    // 32px provides exactly 15px between left margin and bullet character
+    padding-left: unit(32px / @base-font-size-px, em);
+}
+
+li {
+    margin-bottom: unit(@grid_gutter-width / 2 / @base-font-size-px, em);
+}
+
+
 // Testing usage of Avenir Next system fonts on OS X.
 
 // h1, .h1,

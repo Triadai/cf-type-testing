@@ -10792,6 +10792,16 @@ blockquote + .expandable-group .expandable_label {
   max-width: 1170px;
 }
 
+ul {
+  margin-top: 1.875em;
+  margin-bottom: 1.875em;
+  padding-left: 2em;
+}
+
+li {
+  margin-bottom: 0.9375em;
+}
+
 .footer {
   padding-top: 1.875em;
 }
