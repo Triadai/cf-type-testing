@@ -1,5 +1,5 @@
 /*!
- *  capital-framework-type-testing - v0.3.0
+ *  capital-framework-type-testing - v0.3.1
  *  https://cfpb.github.io/cf-type-testing/
  *  Licensed CC0 by Consumer Financial Protection Bureau <tech@cfpb.gov>
  */

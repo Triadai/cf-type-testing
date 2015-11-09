@@ -2,6 +2,12 @@ All notable changes to this project will be documented in this file.
 We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 
 
+## 0.3.2 - 2015-11-09
+
+### Changed
+- Second list example now only has 15px of margin-top above it.
+
+
 ## 0.3.1 - 2015-11-05
 
 ### Added
