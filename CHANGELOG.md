@@ -2,10 +2,22 @@ All notable changes to this project will be documented in this file.
 We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 
 
+## 0.4.0 - 2015-11-09
+
+### Added
+- Ordered list examples, with slight horizontal spacing tweaks for ordered lists
+
+### Changed
+- Changed proposed top margin for headers to a fully-graduated scale
+- Changed proposed list spacing to 10px above, 8px between items, and 15px below
+- Changed class of `subheader` to `lead-paragraph` to more accurately reflect
+  its common usage
+
+
 ## 0.3.2 - 2015-11-09
 
 ### Changed
-- Second list example now only has 15px of margin-top above it.
+- Second list example now only has 15px of margin-top above it
 
 
 ## 0.3.1 - 2015-11-05
