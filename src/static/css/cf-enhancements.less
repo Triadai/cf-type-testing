@@ -9,7 +9,7 @@
 }
 
 h1, .h1 {
-    margin-top: 45px !important;
+    margin-top: 60px !important;
 }
 h2, .h2 {
     margin-top: 45px !important;
@@ -36,6 +36,10 @@ h6, .h6 {
     }
 }
 
+.superheader {
+    .webfont-regular();
+}
+
 .lead-paragraph {
     .subheader();
     margin-top: 0;
@@ -44,11 +48,19 @@ h6, .h6 {
 
 // Testing AJ's bulleted list specs -- modified 11/9 by Scott & Natalia
 
-ul {
-    margin-top: unit(-5px / @base-font-size-px, em);
+ul,
+ol {
     margin-bottom: unit(@grid_gutter-width / 2 / @base-font-size-px, em);
     // 32px provides exactly 15px between left margin and bullet character
     padding-left: unit(32px / @base-font-size-px, em);
+
+    p + & {
+        margin-top: unit(-5px / @base-font-size-px, em);
+    }
+}
+
+li {
+    margin-bottom: unit(8px / @base-font-size-px, em);
 }
 
 ol {
@@ -57,10 +69,6 @@ ol {
 
 ol > li {
     padding-left: unit(1px / @base-font-size-px, em);
-}
-
-li {
-    margin-bottom: unit(8px / @base-font-size-px, em);
 }
 
 

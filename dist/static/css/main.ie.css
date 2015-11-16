@@ -10855,7 +10855,7 @@ blockquote + .expandable-group .expandable_label {
 
 h1,
 .h1 {
-  margin-top: 45px !important;
+  margin-top: 60px !important;
 }
 
 h2,
@@ -10893,6 +10893,36 @@ h5:first-child,
 h6:first-child,
 .h6:first-child {
   margin-top: 0 !important;
+}
+
+.superheader {
+  font-family: 'AvenirNextLTW01-Regular', Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.superheader em,
+.superheader i {
+  font-family: 'AvenirNextLTW01-Italic', Arial, sans-serif;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.lt-ie9 .superheader em,
+.lt-ie9 .superheader i {
+  font-style: normal !important;
+}
+
+.superheader strong,
+.superheader b {
+  font-family: 'AvenirNextLTW01-Demi', Arial, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.lt-ie9 .superheader strong,
+.lt-ie9 .superheader b {
+  font-weight: normal !important;
 }
 
 .lead-paragraph {
@@ -10941,10 +10971,19 @@ blockquote + .lead-paragraph {
   margin-top: 2.04545455em;
 }
 
-ul {
-  margin-top: -0.3125em;
+ul,
+ol {
   margin-bottom: 0.9375em;
   padding-left: 2em;
+}
+
+p + ul,
+p + ol {
+  margin-top: -0.3125em;
+}
+
+li {
+  margin-bottom: 0.5em;
 }
 
 ol {
@@ -10953,10 +10992,6 @@ ol {
 
 ol > li {
   padding-left: 0.0625em;
-}
-
-li {
-  margin-bottom: 0.5em;
 }
 
 .footer {

@@ -2,6 +2,20 @@ All notable changes to this project will be documented in this file.
 We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 
 
+## 0.5.0 - 2015-11-16
+
+### Added
+- Example with Natalia's newest proposed heading spacing (last section,
+  "Option 2")
+- Example of list following a heading
+
+### Changed
+- Weight of Display (`.superheader`) is now Regular.
+
+### Fixed
+- List top and bottom margin rules are now correctly applied to `ol` elements.
+
+
 ## 0.4.0 - 2015-11-09
 
 ### Added
