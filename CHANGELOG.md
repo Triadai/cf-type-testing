@@ -5,6 +5,12 @@ We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 ## 0.5.1 - 2015-11-16
 
 ### Changed
+- Bottom margin of Display (`.superheader`) is now 30px.
+
+
+## 0.5.1 - 2015-11-16
+
+### Changed
 - Less now reflects latest decision on heading spacing.
 
 ### Removed
