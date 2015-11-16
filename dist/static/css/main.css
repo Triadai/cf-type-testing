@@ -91,6 +91,7 @@
   font-size: 1.375em;
   line-height: 1.25;
   margin-top: 35px !important;
+  margin-bottom: 15px !important;
   margin-bottom: 0.54545455em;
   color: #101820;
 }
@@ -159,7 +160,7 @@ blockquote + .pull-quote_body {
   margin-bottom: 1.07142857em;
   font-size: 0.875em;
   line-height: 1.25;
-  margin-top: 20px !important;
+  margin-top: 30px !important;
   color: #75787b;
 }
 .lt-ie9 .pull-quote_citation {
@@ -378,7 +379,7 @@ blockquote + .pull-quote__large .pull-quote_body {
   margin-bottom: 1.07142857em;
   font-size: 0.875em;
   line-height: 1.25;
-  margin-top: 20px !important;
+  margin-top: 30px !important;
   color: #75787b;
   white-space: nowrap;
 }
@@ -429,7 +430,7 @@ blockquote + .date {
   margin-bottom: 0.83333333em;
   font-size: 1.125em;
   line-height: 1.25;
-  margin-top: 25px !important;
+  margin-top: 30px !important;
   display: inline-block;
   margin-bottom: 0.44444444em;
   color: #101820;
@@ -506,7 +507,7 @@ a.category-slug.active {
   margin-bottom: 1.07142857em;
   font-size: 0.875em;
   line-height: 1.25;
-  margin-top: 20px !important;
+  margin-top: 30px !important;
   margin-bottom: 1.21428571em;
   border-top: 1px solid #e3e4e5;
 }
@@ -555,7 +556,7 @@ blockquote + .header-slug {
   margin-bottom: 1.07142857em;
   font-size: 0.875em;
   line-height: 1.25;
-  margin-top: 20px !important;
+  margin-top: 30px !important;
   padding: 0.57142857em 0.71428571em;
   margin-bottom: 0;
   border-bottom: 1px solid #babbbd;
@@ -611,7 +612,7 @@ blockquote + .padded-header {
   margin-bottom: 1.07142857em;
   font-size: 0.875em;
   line-height: 1.25;
-  margin-top: 20px !important;
+  margin-top: 30px !important;
   position: relative;
   height: 1.14285714em;
   padding: 0 1.21428571em;
@@ -5486,7 +5487,7 @@ blockquote + .hero_subhead {
   margin-bottom: 1.07142857em;
   font-size: 0.875em;
   line-height: 1.25;
-  margin-top: 20px !important;
+  margin-top: 30px !important;
   margin-bottom: 0.71428571em;
 }
 .lt-ie9 .form-label-header {
@@ -7447,7 +7448,7 @@ thead td {
   margin-bottom: 1.07142857em;
   font-size: 0.875em;
   line-height: 1.25;
-  margin-top: 20px !important;
+  margin-top: 30px !important;
 }
 .lt-ie9 thead th,
 .lt-ie9 thead td {
@@ -10270,7 +10271,7 @@ button.expandable_header {
   margin-bottom: 1.07142857em;
   font-size: 0.875em;
   line-height: 1.25;
-  margin-top: 20px !important;
+  margin-top: 30px !important;
   margin-bottom: 0;
 }
 .lt-ie9 .expandable-group_header {
@@ -10301,7 +10302,7 @@ blockquote + .expandable-group_header {
   margin-bottom: 0.83333333em;
   font-size: 1.125em;
   line-height: 1.25;
-  margin-top: 25px !important;
+  margin-top: 30px !important;
   margin-bottom: 0;
 }
 .lt-ie9 .expandable-group .expandable_label {
@@ -10427,16 +10428,15 @@ h2,
 h3,
 .h3 {
   margin-top: 35px !important;
+  margin-bottom: 15px !important;
 }
 h4,
-.h4 {
-  margin-top: 25px !important;
-}
+.h4,
 h5,
 .h5,
 h6,
 .h6 {
-  margin-top: 20px !important;
+  margin-top: 30px !important;
 }
 h1:first-child,
 .h1:first-child,
