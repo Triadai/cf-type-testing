@@ -2,7 +2,20 @@ All notable changes to this project will be documented in this file.
 We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 
 
-## 0.5.1 - 2015-11-16
+## 0.5.3 - 2015-11-17
+
+### Changed
+- Updated margin rules:
+
+  - H1: 60px above/15px below
+  - H2: 45px above/15px below
+  - H3: 30px above/15px below
+  - H4: 30px above/15px below
+  - H5: 30px above/15px below
+  - H6: 30px above/15px below
+
+
+## 0.5.2 - 2015-11-16
 
 ### Changed
 - Bottom margin of Display (`.superheader`) is now 30px.
